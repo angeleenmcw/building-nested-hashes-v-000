@@ -1,16 +1,16 @@
 def third_challenge
   epic_tragedy = {
    :montague => {
-     :patriarch => {"Dan",
-     :matriarch => "Anita",
-     :Hero => "Tally",
-     :hero_friends => "Stan"
+     :patriarch => {name: "Dan", age: "53"}
+     :matriarch => {name: "Anita", age: "37}"
+     :Hero => {name: "Tally", age: "15", status: "alive"}
+     :hero_friends => ""
       }, 
     :capulet => {
-      :patriarch => "George",
-      :matriarch => "Paula",
-      :Heroine => "Tino",
-      :heroine_friends => "Christian"
-      }
+     
+     :patriarch => {name: "Dan", age: "53"}
+     :matriarch => {name: "Anita", age: "37}"
+     :Hero => {name: "Tally", age: "15", status: "alive"}
+     :hero_friends => ""
   }
 end
